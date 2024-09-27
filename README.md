@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
+<a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif"></a>
+
 I have been learning to code for 3 years. Started learning to code to explore problem solving and software development.
 
 * 🌍  I'm based in India
