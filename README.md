@@ -9,7 +9,7 @@ Full Stack Developer
 I have been learning to code for 3 years. Started learning to code to explore problem solving and software development.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://adarshranjan1.github.io/AdarshRanjan-Portfolio/)
+<!--* 🖥️  See my portfolio at [Portfolio](http://adarshranjan1.github.io/AdarshRanjan-Portfolio/) -->
 * ✉️  You can contact me at [adarshranjan8427@gmail.com](mailto:adarshranjan8427@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on projects that impacts lives of people.
